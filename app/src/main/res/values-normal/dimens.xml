@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="chico">32dp</item>
-    <item name="mediano">64dp</item>
-    <item name="grande">128dp</item>
-    <item name="largo">200dp</item>
-</resources>
