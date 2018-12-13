@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">BonSus</string>
+    <string name="autor">kim40133836</string>
+    <string name="todo">TODO</string>
+    <string name="imagen">imagen</string>
+    <string name="texto">texto</string>
+    <string name="boton">boton</string>
+    <string name="mis_pedidos">Mis Pedidos</string>
+    <string name="mis_recetas">Mis Recetas</string>
+    <string name="nombre_producto">nombre del producto:</string>
+    <string name="ingredientes">Ingredientes:</string>
+    <string name="preparacion">Preparacion:</string>
+    <string name="detalles">Detalles:</string>
+    <string name="nombre_cliente">Nombre del Cliente:</string>
+    <string name="fecha_entrega">Fecha de Entrega:</string>
+    <string name="productos">Productos:</string>
+    <string name="precio">Precio:</string>
+    <string name="ganancia">Ganancia:</string>
 </resources>
