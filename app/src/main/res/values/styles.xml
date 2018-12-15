@@ -9,8 +9,26 @@
     </style>
     
     <style name="botones">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">@dimen/btn_largo</item>
+        <item name="android:layout_height">@dimen/btn_alto</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">@drawable/trasparencia</item>
+    </style>
+
+    <style name="botones_chicos">
+        <item name="android:layout_width">@dimen/btn_chico</item>
+        <item name="android:layout_height">@dimen/btn_chico</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">@drawable/trasparencia</item>
+    </style>
+
+    <style name="logo">
+        <item name="android:layout_width">@dimen/logo</item>
+        <item name="android:layout_height">@dimen/logo</item>
         <item name="android:scaleType">centerCrop</item>
         <item name="android:clickable">true</item>
         <item name="android:focusable">true</item>
